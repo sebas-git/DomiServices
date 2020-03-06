@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/domiservices/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "28555429f518af96ab94e35577d65227",
+    "revision": "a4ee0ae919118528c8931ddf124e14d1",
     "url": "/domiservices/index.html"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/domiservices/script.js"
   },
   {
-    "revision": "3db873f7cf1f397d84218bd81e30d367",
+    "revision": "da6f22888ed5bad0043fa1726ad615cd",
     "url": "/domiservices/sw.js"
   }
 ]);

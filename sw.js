@@ -3,7 +3,6 @@
 const CACHE_NAME = 'Cache-Service-home',
   urlsToCache = [
     './',
-    './favicon.ico',
     './img/icons/favicon-16x16.png',
     './img/icons/favicon-32x32.png',
     './img/icons/android-chrome-192x192.png',
