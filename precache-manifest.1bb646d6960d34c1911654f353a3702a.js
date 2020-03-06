@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/domiservices/script.js"
   },
   {
-    "revision": "da6f22888ed5bad0043fa1726ad615cd",
+    "revision": "3db873f7cf1f397d84218bd81e30d367",
     "url": "/domiservices/sw.js"
   }
 ]);
