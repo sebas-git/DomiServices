@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/domiservices/precache-manifest.580e281d0a4b9ed408cb87dd87672885.js"
+  "/domiservices/precache-manifest.06a72980b1ce7c14a150959ffdef6298.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "domiservices"});
